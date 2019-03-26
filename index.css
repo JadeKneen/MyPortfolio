@@ -28,6 +28,12 @@ h2 {
     margin-left: 40%;
     margin-right: 50%;
 }
+.threelegs {
+    max-width: 100%;
+    padding: auto;
+    margin-left: 40%;
+    margin-right: 50%;
+}
 .img {
     max-height: 100%;
     max-width: 100%;
