@@ -1,0 +1,66 @@
+
+body {
+    color: grey;
+    font-family: "arial"
+}
+h1 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.heading {
+    text-align: center;
+    color: grey;
+}
+.codenation {
+    margin-left: 40%;
+    margin-right: 50%;
+}
+.dogimage {
+    max-width: 100%;
+    padding: auto;
+    margin-left: 40%;
+    margin-right: 50%;
+}
+.img {
+    max-height: 100%;
+    max-width: 100%;
+    margin-left: 40%;
+    margin-right: 50%;
+}
+h2 {
+    color: pink;
+}
+.section1 {
+    margin: 50;
+    padding: 40px;
+    width: auto;
+    border: 5px dashed rgba(201, 153, 183, 0.523); 
+
+}
+.section2 {
+    margin: 50;
+    padding: 40px;
+    width: auto;
+    border: 5px dashed rgba(170, 255, 0, 0.523); 
+}
+.section3 {
+    margin: 50;
+    padding: 40px;
+    width: auto;
+    border: 5px dashed rgba(0, 0, 255, 0.523); 
+
+}
+.section4 {
+    margin: 50;
+    padding: 40px;
+    width: auto;
+    border: 5px dashed rgba(255, 0, 0, 0.523); 
+
+}
